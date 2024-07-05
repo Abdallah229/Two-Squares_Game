@@ -1,0 +1,3 @@
+C:/Users/Lenovo/CLionProjects/Two squares game/cmake-build-debug/CMakeFiles/Two_Squares_Game.dir
+C:/Users/Lenovo/CLionProjects/Two squares game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/CLionProjects/Two squares game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
